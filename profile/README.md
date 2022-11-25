@@ -28,3 +28,7 @@ which I think is important.
 
 It creates barriers to access for non-techie folks. I'm chewing on a way to 
 get contributions another way. 
+
+# Why Urbane?
+
+It's a synonym for Cosmopolitan. Not sure if it's quite right, but I'm going with it for now.
