@@ -27,8 +27,15 @@ which I think is important.
 # Why not github?
 
 It creates barriers to access for non-techie folks. I'm chewing on a way to 
-get contributions another way. 
+get contributions another way. The very public nature of github also gives 
+me a bit of pause. 
 
 # Why Urbane?
 
 It's a synonym for Cosmopolitan. Not sure if it's quite right, but I'm going with it for now.
+
+# What Now?
+
+Again, I'm not sure. There's a repo created for issue #0. I think my current intent is
+to solicit content for issue #0, and then maybe put together something in a zine-y format
+(maybe using the Electric Zine Maker - https://alienmelon.itch.io/electric-zine-maker )
